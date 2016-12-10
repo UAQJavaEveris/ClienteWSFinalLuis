@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/mx/com/everis/javaweb/model/Personaje.java=UTF-8
+encoding//src/mx/com/everis/javaweb/ws/services/Crud.java=UTF-8
+encoding//src/mx/com/everis/javaweb/ws/services/CrudService.java=UTF-8
+encoding//src/mx/com/everis/javaweb/ws/services/CrudServiceLocator.java=UTF-8
+encoding//src/mx/com/everis/javaweb/ws/services/CrudSoapBindingStub.java=UTF-8
